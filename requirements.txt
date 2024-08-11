@@ -1,0 +1,11 @@
+streamlit
+huggingface-hub
+openai
+neo4j
+langchain_groq
+python-dotenv
+crewai
+pandas
+langchain
+langchain_community
+langchain_openai
